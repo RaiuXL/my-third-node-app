@@ -18,7 +18,7 @@
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "Nathan Tapia-Ramirez",
+    "name": "Nathan Tapia-Ramirez"
   },
   "scripts": {
     "dev": "node server.js",
