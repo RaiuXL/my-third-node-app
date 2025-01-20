@@ -1,0 +1,36 @@
+{
+  "name": "my-third-node-app",
+  "version": "1.0.0",
+  "description": "A schedule tool for my manager to use. Using React, Express and good coding practices.",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaiuXL/my-third-node-app.git"
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "Nathan Tapia-Ramirez",
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "eslint": "^9.18.0",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
